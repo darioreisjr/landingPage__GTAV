@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".assets/previa.png" width="100%" />
+  ![Screenshot_1](https://github.com/darioreisjr/landingPage__GTAV/assets/85812823/e0337b1a-7677-4f42-b65a-0bda85cba98a)
 </p>
 
 ## 💻 Projeto
