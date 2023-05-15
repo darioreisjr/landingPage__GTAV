@@ -2,9 +2,8 @@
   LANDING PAGE GTA V
 </h1>
 
-<p align="center">
-  ![Screenshot_1](https://github.com/darioreisjr/landingPage__GTAV/assets/85812823/e0337b1a-7677-4f42-b65a-0bda85cba98a)
-</p>
+![previa](https://github.com/darioreisjr/landingPage__GTAV/assets/85812823/54b9b260-1f1a-4965-9667-4b8cd28113bd)
+
 
 ## 💻 Projeto
 
